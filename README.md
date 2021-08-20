@@ -1,4 +1,4 @@
-# Damas-minmax
+# Checkers-minmax
 This program uses minmax algorithm to play checkers
 Unfortunately it doesn't have a Graphical interface so 
 it doesn't have any dependency 
